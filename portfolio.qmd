@@ -1,0 +1,7 @@
+---
+title: "Portfolio"
+---
+
+Some of the data science projects I've completed include:
+
+\- \[Abortion Rates of Girls in India\](<https://github.com/tayedzac/quality-and-quantity-of-girls.git>)

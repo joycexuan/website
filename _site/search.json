@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Joyce’s Website",
+    "section": "",
+    "text": "Welcome to my website! I am a third year Bachelor of Information student at the University of Toronto."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Some of the data science projects I’ve completed include:\n- [Abortion Rates of Girls in India](https://github.com/tayedzac/quality-and-quantity-of-girls.git)"
+  }
+]
